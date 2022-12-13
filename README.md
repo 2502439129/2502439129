@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2502439129
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning graduat.
+- 👀 I’m interested in front-end development.
+- 🌱 I am engaged in java development.
 - 📫 How to reach me :2502439129@qq.com / lc250243919@126.com
 
 <!---
